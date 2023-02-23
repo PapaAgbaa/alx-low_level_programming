@@ -1,4 +1,4 @@
-#inlude "main.h"
+#inlclude "main.h"
 
 /**
  * print_triangle - prints a triangle.
